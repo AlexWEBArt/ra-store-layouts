@@ -2,6 +2,9 @@
   "name": "ra-store-layouts",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/ra-store-layouts.git",
+  "homepage": "https://alexwebart.github.io/ra-store-layouts",
+  "author": "AlexWEBArt",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
