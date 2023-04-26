@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bkqta2igb817idnn?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ra-store-layouts)
+https://alexwebart.github.io/ra-store-layouts/
+
 Расположение товаров
 ===
 
